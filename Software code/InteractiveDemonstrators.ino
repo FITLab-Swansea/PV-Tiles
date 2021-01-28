@@ -2,10 +2,10 @@
 PV-Tiles: Towards Closely-CoupledPhotovoltaic and Digital Materials for Useful,Beautiful and Sustainable Interactive Surfaces
 Example for implementing PV-tile prototype-demonstrators: kitchen scenario demonstrator and tabletop scenario demonstrator
 
-Author :  Yogesh Kumar Meena, PostDoc Research officer, Swansea University, UK
+Author :  Yogesh Kumar Meena, Seunarine, K. PostDoc Research officer, Swansea University, UK
 Date   :  Sept 17, 2019
 Version:  1.00
-File   :  IntrectiveKitchenWall.ino
+File   :  InteractiveDemonstrators.ino
 
 Required:\\
 This is based on Sharp® 128x128 Memory LCD Library
