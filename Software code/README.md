@@ -14,3 +14,5 @@ After integrating hardware design with the material, the following instruction i
 
 *Implement the software code for interactive demonstrators
 
+*Used modified version of ImageDog.java - A command line image converter to create C data structures that can be efficiently processed by DOGS102x-6 displays.
+
