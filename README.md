@@ -9,7 +9,9 @@ See the [toolkit website](https://deliot.me/toolkit.html) and [research project 
 By using the following step-by-step process you can build your own PV-Tile or you can reproduce our work. 
 
 *PV fabrication process
+
 *Hardware design
+
 *Software code: microcontroller, Sharp BoosterPackLCD SPI, C data structures of images, and gesture recognition code
 
 
