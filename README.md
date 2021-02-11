@@ -2,7 +2,7 @@
 PV-Tiles is a novel material that closely couples photovoltaic energy harvesting and light-sensing materials with digital interface components. The concept of PV-Tiles includes three layers - PV layer: organic photovoltaic (OPV) cells, interaction layer and control layer. These tiles are composed of digital elements—such as displays, sensors and communication—and photovoltaic materials that can be aesthetically layered on the tile, providing both beauty and the ability to harvest energy to power the digital components.
 
 See the [toolkit website](https://deliot.me/toolkit.html) and [research project website](https://deliot.me) for more details and related work.
-## Getting Start
+## Getting Started
 By using the following step-by-step process you can build your own PV-Tile or you can reproduce our work. 
 
 *PV fabrication process
@@ -22,5 +22,6 @@ The PV-Tiles fabrication guide, functional block diagram, printed circuit board 
 ## Acknowledgments
 
 * FitLab
+* Specific
 * Swansea University
-* ...
+* EPSRC
